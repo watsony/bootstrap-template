@@ -70,6 +70,21 @@ Bootstrap template collection
 ![Agency](image/agency.png)
 
 
+---
+
+### 6. [Sneat](https://watsony.github.io/bootstrap-template/)
+
+> Free Responsive Bootstrap 5 HTML5 Admin Template
+
+[My GitHub Site](https://watsony.github.io/bootstrap-template/sneat),
+[My GitHub Code](https://github.com/watsony/bootstrap-template/tree/main/sneat),
+[Original Demo](https://technext.github.io/sneat),
+[Original Source](https://themewagon.com/themes/free-responsive-bootstrap-5-html5-admin-template-sneat/)
+
+![Sneat](image/sneat.png)
+
+
+
 |  No  |  Name  |  My GitHub Site  |  My GitHub Code  |  Original Demo  |  Original Source  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 |  1  |  Arkitektur  |  https://watsony.github.io/bootstrap-template/arkitektur  |  https://technext.github.io/arkitektur  |  https://technext.github.io/arkitektur/  |  https://themewagon.com/themes/free-responsive-html5-bootstrap-5-architecture-website-template-arkitektur/  |
@@ -77,6 +92,7 @@ Bootstrap template collection
 |  3  |  Zay Shop  |  https://watsony.github.io/bootstrap-template/zay_shop  |  https://github.com/watsony/bootstrap-template/tree/main/zay_shop  |  https://technext.github.io/zay_shop  |  https://themewagon.com/themes/free-bootstrap-5-html-5-ecommerce-website-template-zay-shop/  |
 |  4  |  Restaurantly  |  https://watsony.github.io/bootstrap-template/restaurantly  |  https://github.com/watsony/bootstrap-template/tree/main/restaurantly  |  https://technext.github.io/restaurantly  |  https://themewagon.com/themes/free-bootstrap-5-html-5-restaurant-website-template-restaurantly/  |
 |  5  |  Agency  |  https://watsony.github.io/agencybootstrap-template/agency  |  https://github.com/watsony/bootstrap-template/tree/main/agency  |  https://technext.github.io/agency  |  https://themewagon.com/themes/free-bootstrap-5-html-5-business-website-template-agency/  |
+|  1  |  Sneat  |  https://watsony.github.io/bootstrap-template/sneat  |  https://github.com/watsony/bootstrap-template/tree/main/sneat  |  https://technext.github.io/sneat  |  https://themewagon.com/themes/free-responsive-bootstrap-5-html5-admin-template-sneat/  |
 
 
 ### 参考リンク：
@@ -112,4 +128,3 @@ Bootstrap template collection
 |  1  |  2  |  https://watsony.github.io/bootstrap-template/  |  https://github.com/watsony/bootstrap-template/tree/main/  |  https://technext.github.io/  |  6  |
 
 
-testa
