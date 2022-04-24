@@ -72,11 +72,11 @@ Bootstrap template collection
 
 ---
 
-### 6. [Sneat](https://watsony.github.io/bootstrap-template/sneat)
+### 6. [Sneat](https://watsony.github.io/bootstrap-template/sneat/html)
 
 > Free Responsive Bootstrap 5 HTML5 Admin Template
 
-[My GitHub Site](https://watsony.github.io/bootstrap-template/sneat),
+[My GitHub Site](https://watsony.github.io/bootstrap-template/sneat/html),
 [My GitHub Code](https://github.com/watsony/bootstrap-template/tree/main/sneat),
 [Original Demo](https://technext.github.io/sneat),
 [Original Source](https://themewagon.com/themes/free-responsive-bootstrap-5-html5-admin-template-sneat/)
